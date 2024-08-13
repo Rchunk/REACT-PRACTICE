@@ -1,0 +1,20 @@
+.header{
+    display:flex;
+    justify-content: space-between;
+}
+
+#logo img{
+ /* height:60%;
+  width: 30%;
+  padding:50px;*/
+
+}
+#input {
+   padding:85px;
+    
+}
+
+
+#input label{
+    font-size: 20px;
+}
